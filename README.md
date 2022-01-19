@@ -1,6 +1,6 @@
-# fast-tfrs
+# fast_tfrs
 
-fast-tfrs is a easy-to-use, scalable recommendation engine based on TFRS 
+fast_tfrs is a easy-to-use, easy-to-build scalable recommendation engine based on TFRS.
 
 
 ## Features Built
