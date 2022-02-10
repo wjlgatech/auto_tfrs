@@ -2,6 +2,8 @@
 
 fast_tfrs is a easy-to-use, easy-to-build scalable recommendation engine based on TFRS.
 
+## benchmarks
+- [H&M personalized fashion recommender](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations?utm_medium=email&utm_source=gamma&utm_campaign=comp-handm-2022)
 
 ## Features Built
 - To automatically identify cnt, cat (str_, int_), txt, img columns of a df, built split_cnt_cat_txt_img()
